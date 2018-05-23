@@ -323,16 +323,16 @@
         },
         {
             "name": "tystuyfzand/seaweedfs-client",
-            "version": "v1.0.0",
+            "version": "v1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tystuyfzand/seaweedfs-client.git",
-                "reference": "473b5202426b641f6d73b082f8d8c89ea814f6dd"
+                "reference": "94e53048463125680b8feecd8e37f030808ba230"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tystuyfzand/seaweedfs-client/zipball/473b5202426b641f6d73b082f8d8c89ea814f6dd",
-                "reference": "473b5202426b641f6d73b082f8d8c89ea814f6dd",
+                "url": "https://api.github.com/repos/tystuyfzand/seaweedfs-client/zipball/94e53048463125680b8feecd8e37f030808ba230",
+                "reference": "94e53048463125680b8feecd8e37f030808ba230",
                 "shasum": ""
             },
             "require": {
@@ -355,7 +355,7 @@
                 }
             ],
             "description": "A SeaweedFS implementation for PHP based on Guzzle",
-            "time": "2018-05-23T01:36:25+00:00"
+            "time": "2018-05-23T02:08:23+00:00"
         }
     ],
     "packages-dev": [],
