@@ -1,0 +1,21 @@
+{
+    "name": "tystuyfzand/flysystem-seaweedfs",
+    "description": "A Flysystem adapter for SeaweedFS",
+    "type": "library",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Tyler Stuyfzand",
+            "email": "tyler@tystuyfzand.com"
+        }
+    ],
+    "require": {
+        "league/flysystem": "^1.0",
+        "tystuyfzand/seaweedfs-client": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SeaweedFS\\Filesystem\\": "src/"
+        }
+    }
+}
