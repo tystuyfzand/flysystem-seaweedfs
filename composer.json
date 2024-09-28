@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "league/flysystem": "^1.0|^2.0",
+        "league/flysystem": "^1.0|^2.0|^3.0",
         "tystuyfzand/seaweedfs-client": "^1.0"
     },
     "autoload": {
